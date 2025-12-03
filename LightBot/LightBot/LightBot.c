@@ -375,4 +375,4 @@ void action(stage* counts, player* playerinf, char* buf, char* fbuf1, char* fbuf
 		}
 		read++;
 	}
-}
+} // git test

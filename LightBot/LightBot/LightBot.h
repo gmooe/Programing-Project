@@ -20,4 +20,4 @@ void printfield(stage* counts, player* countp);  // 필드 전체를 출력하는 함수
 void dataManage(stage* stageinf, player* playerinf);
 void starttext();
 int LightbotPlay(stage* counts, player* countp, char* fncBuf1, char* fncBuf2, int stageWNB, int* life);
-void endtext(stage* counts, int result, int* life);
+void endtext(stage* counts, int result, int* life); // git test

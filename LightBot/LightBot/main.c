@@ -22,5 +22,5 @@ int main()
 		endtext(counts, 0, &life);
 	}
 	return 0;
-}
+} // git test
 
