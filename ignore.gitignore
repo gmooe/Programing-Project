@@ -1,0 +1,51 @@
+###############################
+# Visual Studio Build Folders #
+###############################
+Debug/
+Release/
+x64/
+x86/
+out/
+bin/
+obj/
+.vs/
+
+#####################
+# Build Artifacts   #
+#####################
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+
+#####################
+# Temporary Files   #
+#####################
+*.log
+*.cache
+*.tmp
+
+#####################
+# User Files        #
+#####################
+*.suo
+*.user
+*.userosscache
+
+########################
+# Visual Studio Config #
+########################
+*.VC.db
+*.VC.opendb
+
+############################
+# OS-level Junk Files     #
+############################
+Thumbs.db
+*.DS_Store
